@@ -62,3 +62,4 @@ There are several ways to contribute to the Federated Credential Management API.
 ## Code of Conduct
 
 This group operates under [W3C's Code of Conduct Policy](http://www.w3.org/Consortium/cepc/).
+Function 
